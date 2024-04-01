@@ -40,6 +40,17 @@
                ReferencedContainer = "container:TinkolffCalculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "582CCCBB2BBB1D4600484C51"
+               BuildableName = "TinkolffCalculatorTests.xctest"
+               BlueprintName = "TinkolffCalculatorTests"
+               ReferencedContainer = "container:TinkolffCalculator.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
